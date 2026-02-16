@@ -1,0 +1,6 @@
+Supply Chain KPI Definitions (v1.3)
+- OTIF (On-Time In-Full): percentage of customer orders delivered on or before requested delivery date AND with complete quantities.
+- Target OTIF for Priority SKUs: 95%.
+- Fill Rate: shipped units / ordered units per order line.
+- Expedite Rate: percent of shipments requiring premium freight (air/express) due to late supply.
+Notes: OTIF is reported weekly; expedite cost is tracked monthly by lane and supplier.

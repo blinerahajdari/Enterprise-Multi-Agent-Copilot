@@ -1,0 +1,7 @@
+Incident Report: Port Delay — Nov 2025 (Synthetic)
+Event: East Coast port congestion caused inbound container delays.
+- Affected suppliers: Coastal Manufacturing (CM) primary lane; some NSC containers.
+- Observed delays: 11–13 days beyond planned ETA.
+- Business impact: 6 expedited air shipments for SKU-A components; premium freight cost +$74,000 in Nov.
+- Root cause: berth availability + customs backlog.
+- Temporary actions taken: rerouted 2 containers to alternate port; increased safety stock reorder point by 1 week for SKU-B.

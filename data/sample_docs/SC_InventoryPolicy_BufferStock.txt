@@ -1,0 +1,5 @@
+Inventory Policy — Buffer Stock (Synthetic)
+Priority SKUs (A, B):
+- Target service level: 95%
+- Safety stock guideline: cover 1.5× (lead time std dev in days) + 0.5× forecast error window.
+- Reorder point is reviewed monthly; add temporary buffers during high-risk lanes (e.g., East Coast port congestion).

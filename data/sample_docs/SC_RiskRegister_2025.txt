@@ -1,0 +1,15 @@
+Supply Chain Risk Register — 2025 (Synthetic)
+R-01 Port congestion on East Coast lane.
+- Likelihood: High (observed 3 incidents in last 6 months)
+- Impact: Lead time +10 to +14 days; premium freight spikes.
+Mitigation: diversify ports; add buffer inventory for Priority SKUs; qualify alternate supplier.
+
+R-02 Single-source dependency for SKU-A critical component.
+- Likelihood: Medium
+- Impact: production stop within 12 days of disruption.
+Mitigation: dual-source strategy; safety stock; contract SLA.
+
+R-03 Supplier capacity constraints (NSC).
+- Likelihood: Medium
+- Impact: partial shipments; OTIF drop below 85%.
+Mitigation: volume reallocation; staggered PO releases; capacity reservation.

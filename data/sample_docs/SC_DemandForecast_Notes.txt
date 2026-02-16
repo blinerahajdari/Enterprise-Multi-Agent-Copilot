@@ -1,0 +1,5 @@
+Demand Forecast Notes — Q1 2026 (Synthetic)
+- SKU-A forecast: 45k units/month (±8% error historical)
+- SKU-B forecast: 30k units/month (±10% error historical)
+- Seasonality: higher demand in March (+12% vs Jan baseline)
+Planning note: safety stock should account for forecast error + lead time variability on East Coast lane.

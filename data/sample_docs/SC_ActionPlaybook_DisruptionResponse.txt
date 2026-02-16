@@ -1,0 +1,7 @@
+Disruption Response Playbook (Synthetic)
+When a disruption is detected for priority materials:
+1) Activate war-room within 24h (Ops + Procurement + Logistics).
+2) Validate on-hand + in-transit coverage (days of supply).
+3) Decide: expedite vs replan vs alternate source.
+4) Communicate to customer success with updated ETA within 48h.
+5) Post-incident review within 7 days; update risk register and SOP.

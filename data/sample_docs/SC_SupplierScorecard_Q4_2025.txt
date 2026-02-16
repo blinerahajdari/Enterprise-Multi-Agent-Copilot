@@ -1,0 +1,17 @@
+Supplier Scorecard — Q4 2025 (Synthetic)
+Supplier: NorthStar Components (NSC)
+- Avg lead time: 28 days (std dev 6 days)
+- OTIF: 82% for SKU-A; 86% for SKU-B
+- Quality rejects: 1.8%
+- Capacity constraint flagged: Yes (max 18k units/month)
+
+Supplier: Delta Precision (DP)
+- Avg lead time: 21 days (std dev 4 days)
+- OTIF: 91% for SKU-A; 89% for SKU-B
+- Quality rejects: 2.5%
+- Capacity constraint flagged: No (max 30k units/month)
+
+Supplier: Coastal Manufacturing (CM)
+- Avg lead time: 35 days (std dev 9 days)
+- OTIF: 76% for SKU-A; 80% for SKU-B
+- Premium freight incidents: frequent on Port lane

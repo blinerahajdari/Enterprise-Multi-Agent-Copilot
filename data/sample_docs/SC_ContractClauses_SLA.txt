@@ -1,0 +1,5 @@
+Contract SLA Clauses (Synthetic)
+- Service Level: Supplier commits to ≥92% OTIF for priority SKUs per quarter.
+- Remedies: If OTIF < 90% for two consecutive months, buyer may reallocate up to 30% volume without penalty.
+- Lead time: agreed lead time must be updated with 30-day notice; variance > +5 days triggers escalation.
+- Capacity reservation: optional addendum to reserve 10k units/month with 2% fee.

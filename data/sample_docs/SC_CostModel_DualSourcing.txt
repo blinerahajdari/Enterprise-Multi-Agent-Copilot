@@ -1,0 +1,11 @@
+Cost Model — Dual Sourcing for SKU-A and SKU-B (Synthetic)
+Assumptions:
+- Annual demand: SKU-A component 180k units; SKU-B component 120k units.
+- Unit costs: NSC $4.10; DP $4.35; CM $3.95
+- Premium freight per incident (avg): $12,000; expected incidents baseline 8/year for single-source.
+Scenario S1 (single-source NSC):
+- Expected premium freight: $96,000/year.
+Scenario S2 (dual-source NSC 60% / DP 40%):
+- Expected premium freight: $48,000/year (reduced incident exposure)
+- Incremental unit cost vs S1: +$45,000/year.
+Break-even note: if incidents exceed 6/year, S2 becomes cost-neutral or better.

@@ -1,0 +1,11 @@
+Lead Time Analysis (Synthetic)
+SKU-A component:
+- NSC: contracted lead time 24 days; actual mean 28 days (based on last 20 POs).
+- DP: contracted lead time 21 days; actual mean 21 days.
+- CM: contracted lead time 30 days; actual mean 35 days.
+
+SKU-B component:
+- NSC: actual mean 26 days.
+- DP: actual mean 23 days.
+
+Recommendation note: prioritize suppliers with lower lead-time variability for critical build schedules.
