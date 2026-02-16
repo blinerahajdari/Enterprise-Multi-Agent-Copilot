@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sc01_dual_source",
+    "task": "We are experiencing late deliveries and expedite costs for two priority SKUs. Propose a dual-sourcing approach and a 90-day action plan with citations.",
+    "expected": "Mentions OTIF/lead time issues and cites scorecard, cost model, SLA, incident report."
+  },
+  {
+    "id": "sc02_port_risk",
+    "task": "Summarize the impact of East Coast port congestion and propose mitigations backed by sources.",
+    "expected": "Cites incident report and risk register; includes delays and cost impact."
+  },
+  {
+    "id": "sc03_kpi_targets",
+    "task": "What are the OTIF targets for priority SKUs and how is OTIF defined? Provide citations.",
+    "expected": "Cites KPI definitions with target 95% and definition."
+  },
+  {
+    "id": "sc04_supplier_compare",
+    "task": "Compare NSC vs DP for SKU-A considering lead time, OTIF, capacity constraints, and quality. Cite sources.",
+    "expected": "Cites scorecard and lead time analysis; highlights capacity constraint."
+  },
+  {
+    "id": "sc05_break_even",
+    "task": "Using the cost model, when does dual-sourcing become cost-neutral or better? Cite sources.",
+    "expected": "Cites cost model break-even note and incident assumptions."
+  },
+  {
+    "id": "sc06_missing_info",
+    "task": "What is the current on-hand inventory for SKU-A?",
+    "expected": "Should say Not found in sources and suggest needed info."
+  },
+  {
+    "id": "sc07_inventory_policy",
+    "task": "Provide a safety stock / buffer stock guideline for priority SKUs and cite sources.",
+    "expected": "Cites inventory policy and forecast notes."
+  },
+  {
+    "id": "sc08_disruption_playbook",
+    "task": "Draft a client-ready email describing the disruption response playbook steps. Use citations.",
+    "expected": "Cites disruption playbook; includes steps and timeline."
+  },
+  {
+    "id": "sc09_sla_remedies",
+    "task": "What remedies are available if OTIF is below target? Cite sources.",
+    "expected": "Cites SLA clauses about reallocation and escalation."
+  },
+  {
+    "id": "sc10_forecast_seasonality",
+    "task": "What seasonality or forecast risks should be considered for Q1 2026 planning? Cite sources.",
+    "expected": "Cites demand forecast notes; mentions March +12% and error ranges."
+  }
+]
